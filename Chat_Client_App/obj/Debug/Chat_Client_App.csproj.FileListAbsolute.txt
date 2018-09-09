@@ -1,0 +1,9 @@
+C:\Users\Acer\Downloads\Compressed\zz\Chat_Client_App-master\Chat_Client_App\bin\Debug\Chat_Client_App.exe.config
+C:\Users\Acer\Downloads\Compressed\zz\Chat_Client_App-master\Chat_Client_App\bin\Debug\Chat_Client_App.exe
+C:\Users\Acer\Downloads\Compressed\zz\Chat_Client_App-master\Chat_Client_App\bin\Debug\Chat_Client_App.pdb
+C:\Users\Acer\Downloads\Compressed\zz\Chat_Client_App-master\Chat_Client_App\obj\Debug\Chat_Client_App.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Downloads\Compressed\zz\Chat_Client_App-master\Chat_Client_App\obj\Debug\Chat_Client_App.Form1.resources
+C:\Users\Acer\Downloads\Compressed\zz\Chat_Client_App-master\Chat_Client_App\obj\Debug\Chat_Client_App.Properties.Resources.resources
+C:\Users\Acer\Downloads\Compressed\zz\Chat_Client_App-master\Chat_Client_App\obj\Debug\Chat_Client_App.csproj.GenerateResource.Cache
+C:\Users\Acer\Downloads\Compressed\zz\Chat_Client_App-master\Chat_Client_App\obj\Debug\Chat_Client_App.exe
+C:\Users\Acer\Downloads\Compressed\zz\Chat_Client_App-master\Chat_Client_App\obj\Debug\Chat_Client_App.pdb
